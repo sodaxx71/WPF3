@@ -1,0 +1,168 @@
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\bin\Debug\Task3SqlServer.exe.config
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\bin\Debug\Task3SqlServer.exe
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\bin\Debug\Task3SqlServer.pdb
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\bin\Debug\EntityFramework.dll
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\bin\Debug\MaterialDesignColors.dll
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\bin\Debug\EntityFramework.xml
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer.csproj.AssemblyReference.cache
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\obj\Debug\App.g.cs
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer_MarkupCompile.cache
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer_MarkupCompile.lref
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer.g.resources
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer.Properties.Resources.resources
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer.csproj.GenerateResource.cache
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\obj\Debug\Task3Sql.BFFD42BC.Up2Date
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer.exe
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer.pdb
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\obj\Debug\View\MainWindow.g.cs
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\obj\Debug\View\Pages\MainLoginPage.g.cs
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\obj\Debug\View\Pages\RegistationPage.g.cs
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\obj\Debug\View\MainWindow.baml
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\obj\Debug\View\Pages\MainLoginPage.baml
+C:\Users\danii\source\repos\Task3SqlServer\Task3SqlServer\obj\Debug\View\Pages\RegistationPage.baml
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\Task3SqlServer.exe.config
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\Task3SqlServer.exe
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\Task3SqlServer.pdb
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\MaterialDesignColors.dll
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\View\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\View\Pages\MainLoginPage.g.cs
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\View\Pages\RegistrationPage.g.cs
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer_Content.g.cs
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\App.baml
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\View\MainWindow.baml
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\View\Pages\MainLoginPage.baml
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\View\Pages\RegistrationPage.baml
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer.g.resources
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3Sql.BFFD42BC.Up2Date
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer.exe
+C:\Users\Пользователь\Desktop\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer.pdb
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\Task3SqlServer.exe.config
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\Task3SqlServer.exe
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\Task3SqlServer.pdb
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\EntityFramework.dll
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\MaterialDesignColors.dll
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\EntityFramework.xml
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\View\MainWindow.g.cs
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\View\Pages\MainLoginPage.g.cs
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\View\Pages\RegistrationPage.g.cs
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\App.g.cs
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer_Content.g.cs
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer_MarkupCompile.cache
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer_MarkupCompile.lref
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\App.baml
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\View\MainWindow.baml
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\View\Pages\MainLoginPage.baml
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\View\Pages\RegistrationPage.baml
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer.g.resources
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer.Properties.Resources.resources
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer.csproj.GenerateResource.cache
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3Sql.BFFD42BC.Up2Date
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer.exe
+C:\Users\Daniil\Desktop\danito\Task3SqlServer\Task3SqlServer\Task3SqlServer\obj\Debug\Task3SqlServer.pdb
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\bin\Debug\Task3SqlServer.exe.config
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\bin\Debug\Task3SqlServer.exe
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\bin\Debug\Task3SqlServer.pdb
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\bin\Debug\EntityFramework.dll
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\bin\Debug\MaterialDesignColors.dll
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\bin\Debug\EntityFramework.xml
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\obj\Debug\Task3SqlServer.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\obj\Debug\View\MainWindow.g.cs
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\obj\Debug\View\Pages\MainLoginPage.g.cs
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\obj\Debug\View\Pages\RegistrationPage.g.cs
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\obj\Debug\App.g.cs
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\obj\Debug\Task3SqlServer_Content.g.cs
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\obj\Debug\Task3SqlServer_MarkupCompile.cache
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\obj\Debug\Task3SqlServer_MarkupCompile.lref
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\obj\Debug\App.baml
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\obj\Debug\View\MainWindow.baml
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\obj\Debug\View\Pages\MainLoginPage.baml
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\obj\Debug\View\Pages\RegistrationPage.baml
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\obj\Debug\Task3SqlServer.g.resources
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\obj\Debug\Task3SqlServer.Properties.Resources.resources
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\obj\Debug\Task3SqlServer.csproj.GenerateResource.cache
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\obj\Debug\Task3SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\obj\Debug\Task3Sql.BFFD42BC.Up2Date
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\obj\Debug\Task3SqlServer.exe
+C:\Users\Daniil\Desktop\Task3-OOP\Task3SqlServer\obj\Debug\Task3SqlServer.pdb
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\bin\Debug\Task3SqlServer.exe.config
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\bin\Debug\Task3SqlServer.exe
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\bin\Debug\Task3SqlServer.pdb
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\bin\Debug\EntityFramework.dll
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\bin\Debug\MaterialDesignColors.dll
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\bin\Debug\EntityFramework.xml
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\obj\Debug\Task3SqlServer.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\obj\Debug\View\MainWindow.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\obj\Debug\View\Pages\MainLoginPage.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\obj\Debug\View\Pages\RegistrationPage.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\obj\Debug\App.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\obj\Debug\Task3SqlServer_Content.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\obj\Debug\Task3SqlServer_MarkupCompile.cache
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\obj\Debug\Task3SqlServer_MarkupCompile.lref
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\obj\Debug\App.baml
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\obj\Debug\View\MainWindow.baml
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\obj\Debug\View\Pages\MainLoginPage.baml
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\obj\Debug\View\Pages\RegistrationPage.baml
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\obj\Debug\Task3SqlServer.g.resources
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\obj\Debug\Task3SqlServer.Properties.Resources.resources
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\obj\Debug\Task3SqlServer.csproj.GenerateResource.cache
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\obj\Debug\Task3SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\obj\Debug\Task3Sql.BFFD42BC.Up2Date
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\obj\Debug\Task3SqlServer.exe
+C:\Users\Daniil\Desktop\moto oop\Task3-OOP\Task3SqlServer\obj\Debug\Task3SqlServer.pdb
